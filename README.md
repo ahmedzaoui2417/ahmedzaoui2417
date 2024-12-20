@@ -1,16 +1,3 @@
-- 👋 Hi, I’m @ahmedzaoui2417
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ahmedzaoui2417/ahmedzaoui2417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Hi there 👋, I'm Ahmed Zaoui!
 
 ### 👨‍💻 About Me:
