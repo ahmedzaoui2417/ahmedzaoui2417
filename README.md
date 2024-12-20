@@ -23,7 +23,7 @@ I am a **Robotics Developer** (Roboticist) passionate about creating machines th
 
 ---
 
-### 🔗 Connect with Me:
+<!-- ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedzaoui2417)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react)](https://your-website.com)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
@@ -33,8 +33,21 @@ I am a **Robotics Developer** (Roboticist) passionate about creating machines th
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark) -->
 
 ---
 
-⭐ **"Learning, building, and solving one problem at a time."** 🚀
+⭐ **"Learning, building, and solving one problem at a time."** 🚀 
+
+# My Project Title
+
+<!-- This section is about me -->
+
+### 👨‍💻 About Me:
+I am a **Robotics Developer** passionate about creating machines that make a difference.  
+- 🌱 I’m currently learning **ROS**, **C**, **C++**, and **Python**.  
+- 🤝 I’m looking to collaborate on **robotics projects**.  
+- 🚀 My goal is to **build robots that help people in the medical field**.  
+
+<!-- End of About Me -->
+
