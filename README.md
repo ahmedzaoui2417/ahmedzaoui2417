@@ -23,9 +23,9 @@ I am a **Robotics Developer** (Roboticist) passionate about creating machines th
 
 ---
 
-<!-- ### 🔗 Connect with Me:
+### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedzaoui2417)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react)](https://your-website.com)  
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react)](https://your-website.com)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
