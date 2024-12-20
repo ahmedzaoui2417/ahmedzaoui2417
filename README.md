@@ -39,15 +39,4 @@ I am a **Robotics Developer** (Roboticist) passionate about creating machines th
 
 ⭐ **"Learning, building, and solving one problem at a time."** 🚀 
 
-# My Project Title
-
-<!-- This section is about me -->
-
-### 👨‍💻 About Me:
-I am a **Robotics Developer** passionate about creating machines that make a difference.  
-- 🌱 I’m currently learning **ROS**, **C**, **C++**, and **Python**.  
-- 🤝 I’m looking to collaborate on **robotics projects**.  
-- 🚀 My goal is to **build robots that help people in the medical field**.  
-
-<!-- End of About Me -->
 
