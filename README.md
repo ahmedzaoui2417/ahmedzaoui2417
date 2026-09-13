@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Ahmed Zaoui!
-
+<!--
 ### 👨‍💻 About Me:
 I am a **Robotics Developer** (Roboticist) passionate about creating machines that make a difference.  
 - 🌱 I’m currently learning **ROS**, **C**, **C++**, and **Python**.  
@@ -22,7 +22,7 @@ I am a **Robotics Developer** (Roboticist) passionate about creating machines th
 </p>
 
 ---
-
+-->
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedzaoui2417)  
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react)](https://your-website.com)  
