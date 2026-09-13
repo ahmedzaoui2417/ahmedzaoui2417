@@ -35,7 +35,4 @@ I am a **Robotics Developer** (Roboticist) passionate about creating machines th
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark) -->
 
-
-⭐ **"Learning, building, and solving one problem at a time."** 🚀 
-
 -->
