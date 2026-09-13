@@ -12,7 +12,7 @@ I am a **Robotics Developer** (Roboticist) passionate about creating machines th
 
 ### 🛠️ Technologies & Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
+  // <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus" />
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white" />
