@@ -1,5 +1,7 @@
-# Hi there 👋, I'm Ahmed Zaoui!
+# Hi there 👋
 <!--
+# Hi there 👋, I'm Ahmed Zaoui!
+
 ### 👨‍💻 About Me:
 I am a **Robotics Developer** (Roboticist) passionate about creating machines that make a difference.  
 - 🌱 I’m currently learning **ROS**, **C**, **C++**, and **Python**.  
